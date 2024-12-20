@@ -1,0 +1,39 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_hello-shoppable">
+            <key name="contact_phone" />
+            <key name="contact_email" />
+            <key name="contact_address" />
+            <key name="top_bar_button_text" />
+            <key name="top_bar_name" />
+            <key name="mid_contact_phone_label" />
+            <key name="mid_contact_phone_number" />
+            <key name="header_woo_cat_menu_label" />
+            <key name="header_button_text" />
+            <key name="responsive_header_menu_text" />
+            <key name="notification_bar_title" />
+            <key name="top_notification_button_text" />
+            <key name="slider_button_text" />
+            <key name="banner_title" />
+            <key name="banner_subtitle" />
+            <key name="banner_button_text" />
+            <key name="latest_posts_section_title" />
+            <key name="latest_posts_section_description" />
+            <key name="post_button_text" />
+            <key name="single_post_author_title" />
+            <key name="related_posts_title" />
+            <key name="woocommerce_sale_badge_text" />
+            <key name="woocommerce_sale_badge_percent" />
+            <key name="shoppable_pro_coming_maintenance_title" />
+            <key name="shoppable_pro_coming_maintenance_content" />
+            <key name="shoppable_pro_coming_button_text" /> 
+            <key name="shoppable_pro_maintenance_contact_phone" /> 
+            <key name="shoppable_pro_maintenance_contact_email" /> 
+            <key name="shoppable_pro_maintenance_contact_address" /> 
+            <key name="shoppable_pro_copyright_text" /> 
+            <key name="shoppable_pro_quick_view_text" /> 
+            <key name="shoppable_pro_off_canvas_text" /> 
+            <key name="shoppable_pro_sale_countdown_label" /> 
+        </key>
+    </admin-texts>
+</wpml-config>

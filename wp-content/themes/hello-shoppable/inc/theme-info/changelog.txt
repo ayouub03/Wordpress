@@ -1,0 +1,20 @@
+= 1.0.6 =
+* Style update.
+
+= 1.0.5 =
+* Minor functional update.
+
+= 1.0.4 =
+* Post style css updated.
+
+= 1.0.3 =
+* Minor functional update.
+
+= 1.0.2 =
+* Style update.
+
+= 1.0.1 =
+* Theme Info page update.
+
+= 1.0.0 =
+* Initial release.

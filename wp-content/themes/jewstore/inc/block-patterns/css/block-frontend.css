@@ -1,0 +1,13 @@
+/* Call to Action */
+.call-to-action-gap-align {
+	gap: 0!important;
+	align-items: center!important;
+}
+.call-to-action-content {
+	padding:0 0 0 80px;
+}
+@media screen and (max-width: 781px) {
+	.call-to-action-content {
+		padding:0;
+	}
+}

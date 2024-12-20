@@ -1,0 +1,2575 @@
+# Copyright (C) 2024 WpDevArt
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: JewStore 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/jewstore\n"
+"POT-Creation-Date: 2024-12-12 14:54:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:11
+msgctxt "comments title"
+msgid "One thought on \"%2$s\""
+msgid_plural "%1$s thoughts on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:14
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:102
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:103
+msgid "Default sidebar for blog/archive and post/page."
+msgstr ""
+
+#: functions.php:107
+msgid "Footer Large Widget"
+msgstr ""
+
+#: functions.php:108
+msgid "Large footer widget."
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:113 functions.php:118 functions.php:123 functions.php:128
+msgid "A regular footer widget."
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:127
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:132
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Sidebar for WooCommerce store pages."
+msgstr ""
+
+#: header.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: inc/block-patterns/block-patterns.php:7
+#: inc/customizer/sections/premium-link-section.php:11
+msgid "JewStore"
+msgstr ""
+
+#: inc/block-patterns/block-patterns.php:15
+#: inc/customizer/sections/custom-homepage-customizer.php:494
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:106
+#: inc/customizer/custom-controls.php:148
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:4
+msgid "Blog/Archive/Search"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:5
+msgid "Blog/Archive/Search pages settings"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:13
+msgid "Blog/Archive Page"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:22
+msgid "Blog/Archive banner width"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:27
+#: inc/customizer/sections/blog-archive-customizer.php:141
+#: inc/customizer/sections/single-post-customizer.php:28
+#: inc/customizer/sections/single-post-customizer.php:168
+msgid "Narrow"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:28
+#: inc/customizer/sections/blog-archive-customizer.php:142
+#: inc/customizer/sections/single-post-customizer.php:29
+#: inc/customizer/sections/single-post-customizer.php:169
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:36
+msgid "Blog/Archive title alignment"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:41
+#: inc/customizer/sections/blog-archive-customizer.php:155
+#: inc/customizer/sections/single-post-customizer.php:42
+#: inc/customizer/sections/single-post-customizer.php:182
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:42
+#: inc/customizer/sections/blog-archive-customizer.php:156
+#: inc/customizer/sections/single-post-customizer.php:43
+#: inc/customizer/sections/single-post-customizer.php:183
+#: inc/customizer/sections/top-header-customizer.php:38
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:43
+#: inc/customizer/sections/blog-archive-customizer.php:157
+#: inc/customizer/sections/single-post-customizer.php:44
+#: inc/customizer/sections/single-post-customizer.php:184
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:51
+msgid "Blog/Archive banner background color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:60
+msgid "Archive pages banner gradient type"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:65
+#: inc/customizer/sections/blog-archive-customizer.php:179
+#: inc/customizer/sections/custom-homepage-customizer.php:83
+#: inc/customizer/sections/custom-homepage-customizer.php:576
+#: inc/customizer/sections/header-customizer.php:59
+#: inc/customizer/sections/header-customizer.php:229
+#: inc/customizer/sections/logo-customizer.php:58
+#: inc/customizer/sections/single-post-customizer.php:66
+#: inc/customizer/sections/single-post-customizer.php:206
+#: inc/customizer/sections/top-header-customizer.php:66
+msgid "To right"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:66
+#: inc/customizer/sections/blog-archive-customizer.php:180
+#: inc/customizer/sections/custom-homepage-customizer.php:84
+#: inc/customizer/sections/custom-homepage-customizer.php:577
+#: inc/customizer/sections/header-customizer.php:60
+#: inc/customizer/sections/header-customizer.php:230
+#: inc/customizer/sections/logo-customizer.php:59
+#: inc/customizer/sections/single-post-customizer.php:67
+#: inc/customizer/sections/single-post-customizer.php:207
+#: inc/customizer/sections/top-header-customizer.php:67
+msgid "To left"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:67
+#: inc/customizer/sections/blog-archive-customizer.php:181
+#: inc/customizer/sections/custom-homepage-customizer.php:85
+#: inc/customizer/sections/custom-homepage-customizer.php:578
+#: inc/customizer/sections/header-customizer.php:61
+#: inc/customizer/sections/header-customizer.php:231
+#: inc/customizer/sections/logo-customizer.php:60
+#: inc/customizer/sections/single-post-customizer.php:68
+#: inc/customizer/sections/single-post-customizer.php:208
+#: inc/customizer/sections/top-header-customizer.php:68
+msgid "To bottom"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:68
+#: inc/customizer/sections/blog-archive-customizer.php:182
+#: inc/customizer/sections/custom-homepage-customizer.php:86
+#: inc/customizer/sections/custom-homepage-customizer.php:579
+#: inc/customizer/sections/header-customizer.php:62
+#: inc/customizer/sections/header-customizer.php:232
+#: inc/customizer/sections/logo-customizer.php:61
+#: inc/customizer/sections/single-post-customizer.php:69
+#: inc/customizer/sections/single-post-customizer.php:209
+#: inc/customizer/sections/top-header-customizer.php:69
+msgid "To top"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:69
+#: inc/customizer/sections/blog-archive-customizer.php:183
+#: inc/customizer/sections/custom-homepage-customizer.php:87
+#: inc/customizer/sections/custom-homepage-customizer.php:580
+#: inc/customizer/sections/header-customizer.php:63
+#: inc/customizer/sections/header-customizer.php:233
+#: inc/customizer/sections/logo-customizer.php:62
+#: inc/customizer/sections/single-post-customizer.php:70
+#: inc/customizer/sections/single-post-customizer.php:210
+#: inc/customizer/sections/top-header-customizer.php:70
+msgid "To bottom right"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:70
+#: inc/customizer/sections/blog-archive-customizer.php:184
+#: inc/customizer/sections/custom-homepage-customizer.php:88
+#: inc/customizer/sections/custom-homepage-customizer.php:581
+#: inc/customizer/sections/header-customizer.php:64
+#: inc/customizer/sections/header-customizer.php:234
+#: inc/customizer/sections/logo-customizer.php:63
+#: inc/customizer/sections/single-post-customizer.php:71
+#: inc/customizer/sections/single-post-customizer.php:211
+#: inc/customizer/sections/top-header-customizer.php:71
+msgid "To bottom left"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:71
+#: inc/customizer/sections/blog-archive-customizer.php:185
+#: inc/customizer/sections/custom-homepage-customizer.php:89
+#: inc/customizer/sections/custom-homepage-customizer.php:582
+#: inc/customizer/sections/header-customizer.php:65
+#: inc/customizer/sections/header-customizer.php:235
+#: inc/customizer/sections/logo-customizer.php:64
+#: inc/customizer/sections/single-post-customizer.php:72
+#: inc/customizer/sections/single-post-customizer.php:212
+#: inc/customizer/sections/top-header-customizer.php:72
+msgid "To top right"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:72
+#: inc/customizer/sections/blog-archive-customizer.php:186
+#: inc/customizer/sections/custom-homepage-customizer.php:90
+#: inc/customizer/sections/custom-homepage-customizer.php:583
+#: inc/customizer/sections/header-customizer.php:66
+#: inc/customizer/sections/header-customizer.php:236
+#: inc/customizer/sections/logo-customizer.php:65
+#: inc/customizer/sections/single-post-customizer.php:73
+#: inc/customizer/sections/single-post-customizer.php:213
+#: inc/customizer/sections/top-header-customizer.php:73
+msgid "To top left"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:80
+msgid "Archive pages banner gradient color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:89
+msgid "Blog/Archive title color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:102
+msgid "Blog/Archive Page Layout"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:103
+msgid "Choose the blog/archive page layout."
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:108
+#: inc/customizer/sections/blog-archive-customizer.php:222
+#: inc/customizer/sections/single-post-customizer.php:136
+#: inc/customizer/sections/single-post-customizer.php:276
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:32
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:60
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:88
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:112
+#: inc/customizer/sections/blog-archive-customizer.php:226
+#: inc/customizer/sections/single-post-customizer.php:140
+#: inc/customizer/sections/single-post-customizer.php:280
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:36
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:64
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:92
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:116
+#: inc/customizer/sections/blog-archive-customizer.php:230
+#: inc/customizer/sections/single-post-customizer.php:144
+#: inc/customizer/sections/single-post-customizer.php:284
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:40
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:68
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:96
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:125
+msgid "Search Page"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:136
+msgid "Search page banner width"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:150
+msgid "Search page title alignment"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:165
+msgid "Search page banner background color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:174
+msgid "Search page banner gradient type"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:194
+msgid "Search page banner gradient color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:203
+msgid "Search page title color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:216
+msgid "Search Page Layout"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:217
+msgid "Choose the search page layout."
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:240
+#: inc/customizer/sections/header-customizer.php:170
+msgid "Search button color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:245
+#: inc/customizer/sections/custom-homepage-customizer.php:359
+#: inc/customizer/sections/custom-homepage-customizer.php:420
+#: inc/customizer/sections/custom-homepage-customizer.php:715
+#: inc/customizer/sections/header-customizer.php:147
+#: inc/customizer/sections/not-found-customizer.php:82
+msgid "Custom Primary"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:246
+#: inc/customizer/sections/custom-homepage-customizer.php:360
+#: inc/customizer/sections/custom-homepage-customizer.php:421
+#: inc/customizer/sections/custom-homepage-customizer.php:716
+#: inc/customizer/sections/header-customizer.php:148
+#: inc/customizer/sections/not-found-customizer.php:83
+msgid "Custom Secondary"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:247
+#: inc/customizer/sections/custom-homepage-customizer.php:361
+#: inc/customizer/sections/custom-homepage-customizer.php:422
+#: inc/customizer/sections/custom-homepage-customizer.php:717
+#: inc/customizer/sections/header-customizer.php:149
+#: inc/customizer/sections/not-found-customizer.php:84
+msgid "WpDevArt Color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:248
+#: inc/customizer/sections/custom-homepage-customizer.php:362
+#: inc/customizer/sections/custom-homepage-customizer.php:423
+#: inc/customizer/sections/custom-homepage-customizer.php:718
+#: inc/customizer/sections/header-customizer.php:150
+#: inc/customizer/sections/not-found-customizer.php:85
+msgid "Grapefruit Red"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:249
+#: inc/customizer/sections/custom-homepage-customizer.php:363
+#: inc/customizer/sections/custom-homepage-customizer.php:424
+#: inc/customizer/sections/custom-homepage-customizer.php:719
+#: inc/customizer/sections/header-customizer.php:151
+#: inc/customizer/sections/not-found-customizer.php:86
+msgid "Blue"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:250
+#: inc/customizer/sections/custom-homepage-customizer.php:364
+#: inc/customizer/sections/custom-homepage-customizer.php:425
+#: inc/customizer/sections/custom-homepage-customizer.php:720
+#: inc/customizer/sections/header-customizer.php:152
+#: inc/customizer/sections/not-found-customizer.php:87
+msgid "Black"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:251
+#: inc/customizer/sections/custom-homepage-customizer.php:365
+#: inc/customizer/sections/custom-homepage-customizer.php:426
+#: inc/customizer/sections/custom-homepage-customizer.php:721
+#: inc/customizer/sections/header-customizer.php:153
+#: inc/customizer/sections/not-found-customizer.php:88
+msgid "Green"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:252
+#: inc/customizer/sections/custom-homepage-customizer.php:366
+#: inc/customizer/sections/custom-homepage-customizer.php:427
+#: inc/customizer/sections/custom-homepage-customizer.php:722
+#: inc/customizer/sections/header-customizer.php:154
+#: inc/customizer/sections/not-found-customizer.php:89
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:253
+#: inc/customizer/sections/custom-homepage-customizer.php:367
+#: inc/customizer/sections/custom-homepage-customizer.php:428
+#: inc/customizer/sections/custom-homepage-customizer.php:723
+#: inc/customizer/sections/header-customizer.php:155
+#: inc/customizer/sections/not-found-customizer.php:90
+msgid "Custom Green"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:254
+#: inc/customizer/sections/custom-homepage-customizer.php:368
+#: inc/customizer/sections/custom-homepage-customizer.php:429
+#: inc/customizer/sections/custom-homepage-customizer.php:724
+#: inc/customizer/sections/header-customizer.php:156
+#: inc/customizer/sections/not-found-customizer.php:91
+msgid "White"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:261
+#: inc/customizer/sections/custom-homepage-customizer.php:30
+#: inc/customizer/sections/general-customizer.php:4
+#: inc/customizer/sections/header-customizer.php:10
+msgid "General"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:262
+msgid "This is the global options page for the Blog/Archive/Search posts lists."
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:271
+msgid "Summary/Post/Page block background color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:284
+msgid "Enable Default Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:285
+msgid "Display the default featured image for posts that do not have a selected featured image."
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:297
+#: inc/customizer/sections/custom-homepage-customizer.php:166
+msgid "Title font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:311
+msgid "Title color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:320
+msgid "Title hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:329
+msgid "Title border color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:341
+msgid "Entry metas font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:355
+msgid "Color of the metas"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:364
+msgid "Entry metas hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:373
+msgid "Icons color of the metas"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:385
+msgid "Content font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:399
+msgid "Content text color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:411
+msgid "Category font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:425
+msgid "Categories background color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:434
+msgid "Categories border color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:443
+msgid "Categories text color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:452
+msgid "Categories background hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:461
+msgid "Categories border hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:470
+msgid "Categories text hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:478
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:488
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:365
+msgid "Buttons background color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:497
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:374
+msgid "Buttons border color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:506
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:383
+msgid "Text color of active buttons"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:515
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:392
+msgid "Text color of inactive buttons"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:524
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:401
+msgid "Buttons background hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:533
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:410
+msgid "Buttons border hover color"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:542
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:419
+msgid "Text color of active buttons on hover"
+msgstr ""
+
+#: inc/customizer/sections/blog-archive-customizer.php:551
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:428
+msgid "Text color of inactive buttons on hover"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:4
+msgid "Custom Homepage"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:5
+msgid "Customize the theme custom homepage"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:10
+msgid "Enable Custom Homepage"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:23
+msgid "Enable custom homepage"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:24
+msgid "Display custom homepage instead of the latest posts"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:39
+msgid "Sections Title Color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:45
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:55
+msgid "Banner Theme"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:60
+msgid "First Theme"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:61
+msgid "Second Theme"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:69
+msgid "Banner background color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:78
+#: inc/customizer/sections/custom-homepage-customizer.php:571
+#: inc/customizer/sections/header-customizer.php:54
+#: inc/customizer/sections/header-customizer.php:224
+#: inc/customizer/sections/top-header-customizer.php:61
+msgid "Gradient type"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:98
+msgid "Banner background gradient color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:110
+msgid "Banner short description"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:125
+msgid "Short description font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:139
+msgid "Short description color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:151
+msgid "Banner title"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:180
+msgid "Banner title color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:192
+msgid "First sliding text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:207
+msgid "Second sliding text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:222
+msgid "Third sliding text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:237
+msgid "Fourth sliding text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:252
+msgid "Sliding text font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:266
+msgid "Sliding text title color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:278
+msgid "Banner content text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:293
+msgid "Content text font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:307
+msgid "Banner content text color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:320
+msgid "Hide the first button"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:332
+msgid "First button text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:344
+msgid "First button URL"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:354
+msgid "First button color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:380
+msgid "Hide the second button"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:392
+msgid "Second button text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:404
+msgid "Second button URL"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:415
+msgid "Second button color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:437
+msgid "Banner Main Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:438
+#: inc/customizer/sections/custom-homepage-customizer.php:453
+#: inc/customizer/sections/custom-homepage-customizer.php:468
+#: inc/customizer/sections/custom-homepage-customizer.php:483
+msgid "Recommended image size ~800*800"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:442
+#: inc/customizer/sections/custom-homepage-customizer.php:457
+#: inc/customizer/sections/custom-homepage-customizer.php:472
+#: inc/customizer/sections/custom-homepage-customizer.php:487
+#: inc/customizer/sections/custom-homepage-customizer.php:552
+#: inc/customizer/sections/not-found-customizer.php:25
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:443
+#: inc/customizer/sections/custom-homepage-customizer.php:458
+#: inc/customizer/sections/custom-homepage-customizer.php:473
+#: inc/customizer/sections/custom-homepage-customizer.php:488
+#: inc/customizer/sections/custom-homepage-customizer.php:553
+#: inc/customizer/sections/not-found-customizer.php:26
+msgid "Remove Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:444
+#: inc/customizer/sections/custom-homepage-customizer.php:459
+#: inc/customizer/sections/custom-homepage-customizer.php:474
+#: inc/customizer/sections/custom-homepage-customizer.php:489
+#: inc/customizer/sections/custom-homepage-customizer.php:554
+#: inc/customizer/sections/not-found-customizer.php:27
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:452
+msgid "Banner Second Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:467
+msgid "Banner Third Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:482
+msgid "Banner Fourth Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:508
+msgid "Hide Call to Action section"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:520
+msgid "Call to action title"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:535
+msgid "Call to action description"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:547
+msgid "Call To Action Image"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:548
+msgid "Recommended image size ~1200*600"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:562
+msgid "Call to action background color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:591
+msgid "Call to action background gradient color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:603
+msgid "Call to action subtitle"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:615
+msgid "Call to action subtitle color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:628
+msgid "Call to action subtitle font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:645
+msgid "Call to action text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:657
+msgid "Call to action text color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:670
+msgid "Call to action text font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:687
+msgid "Call to action button text"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:699
+msgid "Call to action button URL"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:710
+msgid "Call to action button color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:728
+msgid "Latest Posts Section"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:742
+msgid "Hide Latest Posts section"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:754
+msgid "Latest Posts section title"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:769
+msgid "Latest Posts section description"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:784
+msgid "The number of posts"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:798
+msgid "Latest posts block bg color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:807
+msgid "Latest posts title color"
+msgstr ""
+
+#: inc/customizer/sections/custom-homepage-customizer.php:816
+msgid "Latest posts text color"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:3
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:15
+msgid "Footer layout"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:16
+msgid "Select the layout of the footer"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:21
+msgid "Large widget on the left"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:25
+msgid "Large widget in the center"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:29
+msgid "Large widget on the right"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:33
+msgid "Four widgets"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:37
+msgid "Four widgets - alternative"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:41
+msgid "Five widgets"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:55
+msgid "Display Wave before footer"
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:56
+msgid "Disable this option if you do not want to display the wave before the footer."
+msgstr ""
+
+#: inc/customizer/sections/footer-customizer.php:68
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:5
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:13
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:24
+msgid "Select the font"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:29
+msgid "Roboto"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:30
+msgid "Poppins"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:31
+msgid "Open Sans"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:32
+msgid "Alegreya"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:33
+msgid "Alegreya Sans"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:34
+msgid "Lato"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:35
+msgid "Montserrat"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:36
+msgid "Oswald"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:37
+msgid "Raleway"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:38
+msgid "Inknut Antiqua"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:45
+msgid "Primary Button"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:54
+msgid "Primary button background color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:63
+msgid "Primary button border color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:72
+msgid "Primary button text color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:81
+msgid "Primary button background hover color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:90
+msgid "Primary button border hover color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:99
+msgid "Primary button text hover color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:107
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:116
+msgid "Main container background color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:126
+msgid "Main container heading color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:135
+msgid "Main container text color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:144
+msgid "Main container link color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:153
+msgid "Main container link hover color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:161
+msgid "Sidebar Colors"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:170
+msgid "Widgets background color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:179
+msgid "Widgets shadow color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:188
+msgid "Sidebar headings color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:197
+msgid "Sidebar text color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:206
+msgid "Sidebar link color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:215
+msgid "Sidebar link hover color"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:223
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:236
+msgid "Main container text font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:253
+msgid "Main container link font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:267
+msgid "Link font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:272
+#: inc/customizer/sections/general-customizer.php:328
+#: inc/customizer/sections/general-customizer.php:410
+#: inc/customizer/sections/general-customizer.php:492
+#: inc/customizer/sections/general-customizer.php:574
+#: inc/customizer/sections/general-customizer.php:656
+#: inc/customizer/sections/general-customizer.php:738
+msgid "Thin 100"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:273
+#: inc/customizer/sections/general-customizer.php:329
+#: inc/customizer/sections/general-customizer.php:411
+#: inc/customizer/sections/general-customizer.php:493
+#: inc/customizer/sections/general-customizer.php:575
+#: inc/customizer/sections/general-customizer.php:657
+#: inc/customizer/sections/general-customizer.php:739
+msgid "Normal 400"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:274
+#: inc/customizer/sections/general-customizer.php:330
+#: inc/customizer/sections/general-customizer.php:412
+#: inc/customizer/sections/general-customizer.php:494
+#: inc/customizer/sections/general-customizer.php:576
+#: inc/customizer/sections/general-customizer.php:658
+#: inc/customizer/sections/general-customizer.php:740
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:275
+#: inc/customizer/sections/general-customizer.php:331
+#: inc/customizer/sections/general-customizer.php:413
+#: inc/customizer/sections/general-customizer.php:495
+#: inc/customizer/sections/general-customizer.php:577
+#: inc/customizer/sections/general-customizer.php:659
+#: inc/customizer/sections/general-customizer.php:741
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:283
+msgid "Link font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:288
+#: inc/customizer/sections/general-customizer.php:344
+#: inc/customizer/sections/general-customizer.php:426
+#: inc/customizer/sections/general-customizer.php:508
+#: inc/customizer/sections/general-customizer.php:590
+#: inc/customizer/sections/general-customizer.php:672
+#: inc/customizer/sections/general-customizer.php:754
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:289
+#: inc/customizer/sections/general-customizer.php:345
+#: inc/customizer/sections/general-customizer.php:427
+#: inc/customizer/sections/general-customizer.php:509
+#: inc/customizer/sections/general-customizer.php:591
+#: inc/customizer/sections/general-customizer.php:673
+#: inc/customizer/sections/general-customizer.php:755
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:296
+msgid "Typography H1, H2, H3, H4, H5, H6"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:309
+msgid "Heading H1 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:323
+msgid "Heading H1 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:339
+msgid "Heading H1 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:353
+msgid "Heading H1 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:358
+#: inc/customizer/sections/general-customizer.php:374
+#: inc/customizer/sections/general-customizer.php:440
+#: inc/customizer/sections/general-customizer.php:456
+#: inc/customizer/sections/general-customizer.php:522
+#: inc/customizer/sections/general-customizer.php:538
+#: inc/customizer/sections/general-customizer.php:604
+#: inc/customizer/sections/general-customizer.php:620
+#: inc/customizer/sections/general-customizer.php:686
+#: inc/customizer/sections/general-customizer.php:702
+#: inc/customizer/sections/general-customizer.php:768
+#: inc/customizer/sections/general-customizer.php:784
+msgid "None"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:359
+#: inc/customizer/sections/general-customizer.php:441
+#: inc/customizer/sections/general-customizer.php:523
+#: inc/customizer/sections/general-customizer.php:605
+#: inc/customizer/sections/general-customizer.php:687
+#: inc/customizer/sections/general-customizer.php:769
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:360
+#: inc/customizer/sections/general-customizer.php:442
+#: inc/customizer/sections/general-customizer.php:524
+#: inc/customizer/sections/general-customizer.php:606
+#: inc/customizer/sections/general-customizer.php:688
+#: inc/customizer/sections/general-customizer.php:770
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:361
+#: inc/customizer/sections/general-customizer.php:443
+#: inc/customizer/sections/general-customizer.php:525
+#: inc/customizer/sections/general-customizer.php:607
+#: inc/customizer/sections/general-customizer.php:689
+#: inc/customizer/sections/general-customizer.php:771
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:369
+msgid "Heading H1 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:375
+#: inc/customizer/sections/general-customizer.php:457
+#: inc/customizer/sections/general-customizer.php:539
+#: inc/customizer/sections/general-customizer.php:621
+#: inc/customizer/sections/general-customizer.php:703
+#: inc/customizer/sections/general-customizer.php:785
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:376
+#: inc/customizer/sections/general-customizer.php:458
+#: inc/customizer/sections/general-customizer.php:540
+#: inc/customizer/sections/general-customizer.php:622
+#: inc/customizer/sections/general-customizer.php:704
+#: inc/customizer/sections/general-customizer.php:786
+msgid "Line-through"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:377
+#: inc/customizer/sections/general-customizer.php:459
+#: inc/customizer/sections/general-customizer.php:541
+#: inc/customizer/sections/general-customizer.php:623
+#: inc/customizer/sections/general-customizer.php:705
+#: inc/customizer/sections/general-customizer.php:787
+msgid "Overline"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:391
+msgid "Heading H2 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:405
+msgid "Heading H2 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:421
+msgid "Heading H2 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:435
+msgid "Heading H2 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:451
+msgid "Heading H2 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:473
+msgid "Heading H3 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:487
+msgid "Heading H3 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:503
+msgid "Heading H3 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:517
+msgid "Heading H3 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:533
+msgid "Heading H3 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:555
+msgid "Heading H4 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:569
+msgid "Heading H4 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:585
+msgid "Heading H4 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:599
+msgid "Heading H4 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:615
+msgid "Heading H4 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:637
+msgid "Heading H5 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:651
+msgid "Heading H5 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:667
+msgid "Heading H5 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:681
+msgid "Heading H5 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:697
+msgid "Heading H5 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:719
+msgid "Heading H6 font-size (px)"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:733
+msgid "Heading H6 font weight"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:749
+msgid "Heading H6 font style"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:763
+msgid "Heading H6 font transform"
+msgstr ""
+
+#: inc/customizer/sections/general-customizer.php:779
+msgid "Heading H6 font decoration"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:4
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:5
+msgid "Customize the theme header options"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:24
+msgid "Header layout"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:25
+msgid "Select the position of the header elements"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:30
+msgid "All header elements on one line"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:34
+msgid "Logo on the top side of the menu"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:44
+msgid "Header background color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:74
+msgid "Header gradient color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:87
+msgid "Hide the header border"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:96
+msgid "Header border color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:109
+msgid "Hide the action button"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:121
+msgid "Header action button text"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:133
+msgid "Header action button URL"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:142
+msgid "Header action button color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:161
+msgid "Menu and Search"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:179
+msgid "Menu items color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:188
+msgid "Sub menu background color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:197
+msgid "Sub menu items color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:206
+msgid "Sub menu border color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:215
+msgid "Mobile toolbar background color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:244
+msgid "Mobile toolbar background gradient color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:253
+msgid "Mobile search button color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:263
+msgid "Mobile menu button color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:272
+msgid "Mobile menu background color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:281
+msgid "Mobile menu link color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:290
+msgid "Mobile menu borders color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:299
+msgid "Mobile sub-menu button BG color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:308
+msgid "Mobile sub-menu button color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:315
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:324
+msgid "WooCommerce account icon color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:333
+msgid "WooCommerce cart icon color"
+msgstr ""
+
+#: inc/customizer/sections/header-customizer.php:342
+msgid "WooCommerce cart number color"
+msgstr ""
+
+#: inc/customizer/sections/logo-customizer.php:13
+msgid "Logo (image) max-height (px)"
+msgstr ""
+
+#: inc/customizer/sections/logo-customizer.php:30
+msgid "Mobile Logo (image) max-height (px)"
+msgstr ""
+
+#: inc/customizer/sections/logo-customizer.php:44
+msgid "Text Logo color"
+msgstr ""
+
+#: inc/customizer/sections/logo-customizer.php:53
+msgid "Text Logo gradient type"
+msgstr ""
+
+#: inc/customizer/sections/logo-customizer.php:73
+msgid "Text Logo gradient color"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:3
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:11
+msgid "404 Page background color"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:20
+msgid "404 page Image"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:21
+msgid "Recommended image size ~1080*550"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:38
+msgid "404 page title"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:50
+msgid "404 page description"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:59
+msgid "404 page button text"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:68
+msgid "404 page button URL"
+msgstr ""
+
+#: inc/customizer/sections/not-found-customizer.php:77
+msgid "Back to Homepage button color"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:13
+#: inc/customizer/sections/premium-features-list.php:36
+#: inc/customizer/sections/premium-features-list.php:58
+#: inc/customizer/sections/premium-features-list.php:80
+#: inc/customizer/sections/premium-features-list.php:102
+#: inc/customizer/sections/premium-features-list.php:131
+msgid "Even More Options in the Premium Version!"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:16
+#: inc/customizer/sections/premium-features-list.php:196
+msgid "+40 Other Popular Fonts"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:17
+#: inc/customizer/sections/premium-features-list.php:44
+#: inc/customizer/sections/premium-features-list.php:66
+#: inc/customizer/sections/premium-features-list.php:88
+#: inc/customizer/sections/premium-features-list.php:117
+#: inc/customizer/sections/premium-features-list.php:140
+msgid "Wide and Full-Width Layouts"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:18
+#: inc/getting-started/theme-page.php:174
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:19
+#: inc/customizer/sections/premium-features-list.php:217
+msgid "Button Animation"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:20
+#: inc/customizer/sections/premium-features-list.php:61
+#: inc/customizer/sections/premium-features-list.php:336
+#: inc/customizer/sections/premium-features-list.php:368
+msgid "+6 Beautiful Patterns"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:21
+msgid "Customizable Search Overlay"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:22
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:23
+#: inc/customizer/sections/premium-features-list.php:45
+#: inc/customizer/sections/premium-features-list.php:67
+#: inc/customizer/sections/premium-features-list.php:89
+#: inc/customizer/sections/premium-features-list.php:118
+#: inc/customizer/sections/premium-features-list.php:141
+#: inc/customizer/sections/premium-features-list.php:178
+#: inc/customizer/sections/premium-features-list.php:199
+#: inc/customizer/sections/premium-features-list.php:220
+#: inc/customizer/sections/premium-features-list.php:247
+#: inc/customizer/sections/premium-features-list.php:274
+#: inc/customizer/sections/premium-features-list.php:295
+#: inc/customizer/sections/premium-features-list.php:317
+#: inc/customizer/sections/premium-features-list.php:351
+#: inc/customizer/sections/premium-features-list.php:383
+#: inc/customizer/sections/premium-features-list.php:413
+#: inc/customizer/sections/premium-features-list.php:442
+#: inc/customizer/sections/premium-features-list.php:465
+#: inc/customizer/sections/premium-features-list.php:485
+#: inc/customizer/sections/premium-features-list.php:511
+#: inc/customizer/sections/premium-features-list.php:534
+msgid "... and Other Premium Features"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:39
+#: inc/customizer/sections/premium-features-list.php:238
+msgid "Sticky Header Feature"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:40
+#: inc/customizer/sections/premium-features-list.php:241
+msgid "Sticky Header Feature for Mobile"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:41
+msgid "Logo Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:42
+#: inc/customizer/sections/premium-features-list.php:292
+msgid "Search Button Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:43
+msgid "Woo Cart Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:62
+msgid "Post/Page Title Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:63
+msgid "Post/Page Banner Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:64
+msgid "4 Animated Banner Elements"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:65
+#: inc/customizer/sections/premium-features-list.php:87
+#: inc/customizer/sections/premium-features-list.php:348
+#: inc/customizer/sections/premium-features-list.php:380
+#: inc/customizer/sections/premium-features-list.php:410
+#: inc/customizer/sections/premium-features-list.php:439
+msgid "Animated Elements Colors"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:83
+#: inc/customizer/sections/premium-features-list.php:459
+msgid "Images Hover Effects"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:84
+msgid "Archive/Search Page Title Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:85
+msgid "Archive/Search Page Banner Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:86
+#: inc/customizer/sections/premium-features-list.php:345
+#: inc/customizer/sections/premium-features-list.php:377
+#: inc/customizer/sections/premium-features-list.php:407
+#: inc/customizer/sections/premium-features-list.php:436
+msgid "4 Animated Elements"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:105
+#: inc/customizer/sections/premium-features-list.php:482
+msgid "+4 Beautiful Banner Themes"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:106
+msgid "Homepage Sections Positions"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:107
+msgid "WooCommerce Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:108
+msgid "Sales Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:109
+msgid "Benefits of Ordering Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:110
+msgid "Shop by Brand Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:111
+msgid "Shop by Category Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:112
+msgid "Achievements Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:113
+msgid "Advantages Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:114
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:115
+#: inc/customizer/sections/premium-features-list.php:505
+msgid "Sections Description Color"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:116
+#: inc/customizer/sections/premium-features-list.php:508
+msgid "Sections Title Lines Color"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:134
+msgid "WooCommerce Search Bar Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:135
+msgid "Customizable Category List and Search Bar"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:136
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:137
+msgid "WooCommerce Header Cart Design"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:138
+#: inc/customizer/sections/premium-features-list.php:314
+msgid "WooCommerce Button Animation"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:139
+msgid "WooCommerce Sidebar Options"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:158
+#: inc/customizer/sections/premium-features-list.php:191
+#: inc/customizer/sections/premium-features-list.php:212
+#: inc/customizer/sections/premium-features-list.php:233
+#: inc/customizer/sections/premium-features-list.php:260
+#: inc/customizer/sections/premium-features-list.php:287
+#: inc/customizer/sections/premium-features-list.php:309
+#: inc/customizer/sections/premium-features-list.php:331
+#: inc/customizer/sections/premium-features-list.php:363
+#: inc/customizer/sections/premium-features-list.php:396
+#: inc/customizer/sections/premium-features-list.php:425
+#: inc/customizer/sections/premium-features-list.php:454
+#: inc/customizer/sections/premium-features-list.php:477
+#: inc/customizer/sections/premium-features-list.php:497
+#: inc/customizer/sections/premium-features-list.php:523
+msgid "More Features in the Premium Version!"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:163
+msgid "Logo Animation"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:166
+msgid "Text Logo Font-size"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:169
+msgid "Text Logo Font Weight"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:172
+msgid "Site Description Color"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:175
+msgid "Site Description Font-size"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:244
+msgid "Animations for Header Elements"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:265
+msgid "Address Section"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:268
+msgid "Phone/Email/Address Icon Color"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:271
+msgid "Animations for Top Header Elements"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:339
+#: inc/customizer/sections/premium-features-list.php:371
+#: inc/customizer/sections/premium-features-list.php:401
+#: inc/customizer/sections/premium-features-list.php:430
+msgid "Title Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:342
+#: inc/customizer/sections/premium-features-list.php:374
+#: inc/customizer/sections/premium-features-list.php:404
+#: inc/customizer/sections/premium-features-list.php:433
+#: inc/getting-started/theme-page.php:164
+msgid "Banner Animations"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:462
+msgid "Ordering of Metas"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:502
+msgid "Ordering of Sections"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:528
+msgid "+4 Beautiful Footer Themes"
+msgstr ""
+
+#: inc/customizer/sections/premium-features-list.php:531
+msgid "Copyright Section Image"
+msgstr ""
+
+#: inc/customizer/sections/premium-link-section.php:12
+msgid "Premium"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:4
+msgid "Single Post/Page"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:5
+msgid "Single Post/Page settings"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:13
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:23
+msgid "Single post banner width"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:37
+#: inc/customizer/sections/single-post-customizer.php:177
+msgid "Position of elements"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:52
+msgid "Single post banner BG color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:61
+msgid "Single post banner gradient type"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:81
+msgid "Single post banner gradient color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:90
+msgid "Banner/Single Post title color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:99
+#: inc/customizer/sections/single-post-customizer.php:239
+msgid "Banner text color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:108
+#: inc/customizer/sections/single-post-customizer.php:248
+msgid "Banner link color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:117
+#: inc/customizer/sections/single-post-customizer.php:257
+msgid "Banner link hover color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:130
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:131
+msgid "Choose the single post layout."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:153
+msgid "Single Page"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:163
+msgid "Single page banner width"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:192
+msgid "Single page banner BG color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:201
+msgid "Single page banner gradient type"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:221
+msgid "Single page banner gradient color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:230
+msgid "Banner/Single page title color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:270
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:271
+msgid "Choose the single page layout."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:293
+#: inc/getting-started/theme-page.php:134
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:294
+msgid "This section is for single posts and pages only. If you want to enable/edit WooCommerce breadcrumbs, you can do so from the WooCommerce WpDevArt section."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:308
+msgid "Enable Post Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:309
+msgid "Check the option if you need to display the breadcrumbs for the single post."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:322
+msgid "Enable Page Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:323
+msgid "Check the option if you need to display the breadcrumbs for the single page."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:335
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:346
+msgid "Comments Box"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:347
+msgid "The Comment Box is a block of user responses. Other comments section settings can be managed on the General settings page (for example, the Post Comment button can be controlled in the Primary Button section, or the text colors for Comment*, Name*, Email*, or Website can be controlled in the Colors section)."
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:356
+msgid "Comments reply box background color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:365
+msgid "Comments reply box text color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:374
+msgid "Comments reply box heading color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:383
+msgid "Comments reply box link color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:392
+msgid "Comments reply box link hover color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:401
+msgid "Comments reply button bg color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:410
+msgid "Comments reply button border color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:419
+msgid "Comments reply button link color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:428
+msgid "Comments reply button bg hover color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:437
+msgid "Comments reply button border hover color"
+msgstr ""
+
+#: inc/customizer/sections/single-post-customizer.php:446
+msgid "Comments reply button link hover color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:3
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:15
+msgid "Hide Top Header"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:28
+msgid "Top header layout"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:29
+msgid "Select the position of the top header elements"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:34
+msgid "Phone and email on the left side"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:42
+msgid "Phone and email on the right side"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:52
+msgid "Top header background color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:81
+msgid "Top header gradient color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:94
+msgid "Hide top header border"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:103
+msgid "Top header border color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:112
+msgid "Top header text color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:124
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:137
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:148
+msgid "Social icons color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:157
+msgid "Social icons background color"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:170
+msgid "Hide Twitter icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:179
+msgid "Twitter page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:193
+msgid "Hide Facebook icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:202
+msgid "Facebook page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:216
+msgid "Hide Linkedin icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:225
+msgid "Linkedin page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:239
+msgid "Hide YouTube icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:248
+msgid "YouTube page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:262
+msgid "Hide Instagram icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:271
+msgid "Instagram page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:285
+msgid "Hide TikTok icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:294
+msgid "TikTok page URL"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:308
+msgid "Hide Pinterest icon"
+msgstr ""
+
+#: inc/customizer/sections/top-header-customizer.php:317
+msgid "Pinterest page URL"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:4
+msgid "WooCommerce WpDevArt"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:5
+msgid "WooCommerce custom settings"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:13
+msgid "WooCommerce Layout"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:26
+msgid "WooCommerce Shop/Category pages layout"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:27
+msgid "Choose the WooCommerce Shop/Category pages layout."
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:54
+msgid "WooCommerce Products pages layout"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:55
+msgid "Choose the WooCommerce products pages layout."
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:82
+msgid "WooCommerce Cart/Checkout/Account layout"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:83
+msgid "Choose the WooCommerce Cart/Checkout/Account pages layout."
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:105
+msgid "WooCommerce Typography"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:118
+msgid "Text font-size for Woo pages (px)"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:135
+msgid "Link font-size for Woo pages (px)"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:152
+msgid "Title font-size for Woo pages (px)"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:165
+msgid "WooCommerce Primary Button"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:175
+msgid "WooCommerce primary button bg color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:184
+msgid "WooCommerce primary button border color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:193
+msgid "WooCommerce primary button text color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:202
+msgid "WooCommerce primary button bg hover color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:211
+msgid "WooCommerce primary button border hover color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:220
+msgid "WooCommerce primary button text hover color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:228
+msgid "WooCommerce Colors"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:238
+msgid "WooCommerce pages bg color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:248
+msgid "WooCommerce product summary bg color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:257
+msgid "WooCommerce pages headings color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:266
+msgid "WooCommerce pages text color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:275
+msgid "WooCommerce pages link color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:284
+msgid "WooCommerce pages link hover color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:293
+msgid "WooCommerce Sales background color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:302
+msgid "WooCommerce Sales text color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:311
+msgid "WooCommerce product active tab color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:320
+msgid "WooCommerce product inactive tab color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:329
+msgid "WooCommerce product tab border color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:338
+msgid "WooCommerce rating/star color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:347
+msgid "WooCommerce Info border/icon color"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:355
+msgid "WooCommerce Pagination"
+msgstr ""
+
+#: inc/customizer/sections/woocommerce-wpdevart-customizer.php:440
+msgid "Font-size of buttons (px)"
+msgstr ""
+
+#: inc/front-end/woocommerce-wpdevart.php:65
+msgid "Total"
+msgstr ""
+
+#: inc/front-end/wpdevart-breadcrumbs.php:5
+#: inc/getting-started/theme-page.php:145
+msgid "1"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:18
+msgid "Welcome to %1$s Theme"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:20
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:21
+msgid "%s Premium"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:22
+msgid "To get started, take action and learn more about our theme. If you want to hide this notice, click the Dismiss button in the top right corner."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:9
+msgid "About Theme"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:22
+msgid "Theme Info"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:23
+msgid "Demo"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:24
+msgid "Support"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:25
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:26 inc/getting-started/theme-page.php:64
+msgid "Hire a Developer"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:33
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:34
+msgid "About"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:35
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:36
+msgid "FAQ"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:52
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:53
+msgid "You can edit and change theme options using the customizer. All theme options are available via Customize screen."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:54
+msgid "Customize"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:58
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:59
+msgid "If you have any questions regarding our theme, you can add a support ticket and get fast support from our team."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:60
+msgid "Support Forum"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:65
+msgid "Hire WordPress developers from WpDevArt and you will get a quick and flexible solution at cost-effective rates. Our WordPress experts will help you to solve any problem. We provide different services for WordPress – website customization and development, theme/plugin customization and development, SEO optimization, WordPress integration, website speed optimization, etc. Our experts have over 10 years of experience, so a high-quality job is guaranteed."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:66 inc/getting-started/theme-page.php:72
+msgid "Check Details"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:70
+msgid "Best Offer"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:71
+msgid "On the Best Offer page, you can check the best deals that our company suggests. At this moment we have 15 powerful and useful WordPress plugins and 15+ well-designed and unique themes. These plugins and themes will help you add various features to your WordPress site and improve its appearance. We decided to collect all plugins and themes in one package and take more than 73.99% of the price. You can find more detailed information on our website."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:83
+msgid "Check out some of the differences between the free and premium versions below:"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:88
+msgid "Free Version"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:89
+msgid "Pro Version"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:94
+msgid "Fully Responsive Design"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:99
+msgid "Integrated with WooCommerce"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:104
+msgid "Optimized PageSpeed and Clear Codding"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:109
+msgid "Customizable Top Bar and Header"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:114
+msgid "Homepage Premium Sections"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:119
+msgid "+4 Homepage Banner Themes"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:124
+msgid "Animation Effects"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:129
+msgid "Wide and Full-width Layouts"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:139
+msgid "Customizable Header Cart"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:144
+msgid "Patterns"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:146
+msgid "6+"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:149
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:154
+msgid "WooCommerce Search Bar"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:159
+msgid "WooCommerce Sales Section"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:169
+msgid "Button Animations"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:179
+msgid "Footer Themes"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:184
+msgid "Priority Support"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:191
+msgid "Go For Premium"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:207
+msgid "How can I display the custom homepage instead of the latest posts on the main page?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:208
+msgid "Go to the theme customize page, then in the left menu, click the Custom Homepage section, go to the Enable Custom Homepage section, and enable the option. Important: You will need to make sure that on the theme Customize page under the Homepage Settings section, the “Your homepage displays” option is set to “Your latest posts.”"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:211
+msgid "How can I add widgets to the WooCommerce sidebar?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:212
+msgid "You need to go to Appearance > Widgets page, find the WooCommerce Sidebar widget and add the widgets you want."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:215
+msgid "What is the difference between the Primary Button and the header/banner/search page and other buttons?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:216
+msgid "The Primary Button is the style of the widget search button and the comments submit button and you can set a custom color for it, while the other buttons are placed on different settings pages and you can choose the color for these buttons from the 10 available colors."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:219
+msgid "What should I do if after successful payment I did not receive a link to download the premium version?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:220
+msgid "You need to contact us using the form on the Contact Us page of our website."
+msgstr ""
+
+#: inc/getting-started/theme-page.php:223
+msgid "Can I use animated elements in the free version?"
+msgstr ""
+
+#: inc/getting-started/theme-page.php:224
+msgid "The animation feature is only available in the premium version, so you need to purchase a theme to use it."
+msgstr ""
+
+#: page.php:18 single.php:15
+msgid "By "
+msgstr ""
+
+#: search.php:8
+msgid "Search results for: "
+msgstr ""
+
+#: search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:35
+msgid "Sorry, but nothing matched your search query. Please try again using other search terms."
+msgstr ""
+
+#: search.php:63
+msgid "Perform a new search:"
+msgstr ""
+
+#: searchform.php:4 sidebar.php:4
+#: template-parts/sidebar/sidebar-woo-wpdevart.php:5
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:8 template-parts/sidebar/sidebar-woo-wpdevart.php:9
+msgid "Tag Cloud"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Login"
+msgstr ""
+
+#: sidebar.php:17 template-parts/sidebar/sidebar-woo-wpdevart.php:13
+msgid "Archives"
+msgstr ""
+
+#: template-parts/content/generic-content.php:4
+#: template-parts/content/woocommerce-content.php:13
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/posts-list.php:19
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:31
+msgid "No Title"
+msgstr ""
+
+#: template-parts/footer/footer-layout-five.php:61
+#: template-parts/footer/footer-layout-four.php:65
+#: template-parts/footer/footer-layout-one.php:54
+#: template-parts/footer/footer-layout-six.php:70
+#: template-parts/footer/footer-layout-three.php:54
+#: template-parts/footer/footer-layout-two.php:53
+msgid " %s Powered by WordPress."
+msgstr ""
+
+#: template-parts/header/header-layouts/header-layout-one.php:102
+#: template-parts/header/header-layouts/header-layout-two.php:101
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:45
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:50
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:55
+msgid "Demo Post"
+msgstr ""
+
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:46
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:51
+#: template-parts/partials/custom-homepage/wpdevart-latest-post-section.php:56
+msgid "These are just demo posts. Once you add your first post, this demo content will simply disappear."
+msgstr ""
+
+#: template-parts/partials/popup-search.php:7
+msgid "Enter a search term here..."
+msgstr ""
+
+#: template-parts/partials/popup-search.php:27
+msgid "Search term..."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "JewStore"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpdevart.com/jewstore-best-wordpress-jewelry-store-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "JewStore is a responsive and modern WordPress theme designed specifically for jewelry stores and blogs. The theme is fully integrated with WooCommerce and comes with a lot of options and settings, making it easy and quick to create a jewelry store from scratch. JewStore has many advantages that set it apart from other WordPress themes. The main advantage of the theme is a ready-to-use and customizable home page. All you have to do is enable the built-in home page, make a few minor changes (such as changing the default links or texts if needed), and there you have it, a beautiful, ready-made home page. The home page has various sections available such as banner, call to action, sales, services, shopping by brand, etc. The free version of the jewelry store WordPress theme includes some of these sections, while the premium version comes with all 11 sections. You can enable any section, change the order, and customize any element of these sections. Another advantage of JewStore is that the theme comes with a lot of settings for the store pages. You have complete control over your jewelry store pages, from layouts and breadcrumbs to design and typography. JewStore also extends WooCommerce functionality, and you can change all these settings directly from the theme customization page. For example, you can add a search bar to your store and product pages, change the design of the header cart, etc. Another advantage of JewStore is that you can change the settings of the blog page. This means you can change the blog page layout, banner settings, post summary design, image hover effects, and more. With our theme you will have full control over your jewelry blog pages, so in addition to a well-designed store, you will have a beautiful blog. JewStore has many other advantages such as custom search popup and top bar, header layouts, animation effects, fully customizable post and page banners, sidebar settings, typography settings, footer layouts and themes, etc. To check all these advantages of our WordPress jewelry store theme, you can install and test it or view the demo page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WpDevArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpdevart.com"
+msgstr ""

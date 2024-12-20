@@ -1,0 +1,12 @@
+li#accordion-section-upsell_section h3.accordion-section-title:after{
+    display: none;
+}
+h3.accordion-section-title a {
+    color: #fff !important;
+    background: #f74883 !important;
+    border: #f74883 !important;
+}
+#accordion-section-upsell_section h3.accordion-section-title {
+    background: #6b3ba9 !important;
+    color: #fff !important;
+}

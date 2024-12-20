@@ -1,0 +1,21 @@
+.wc-block-components-notice-banner>.wc-block-components-notice-banner__content .wc-forward {
+    padding: 10px 10px!important;
+    float:right;
+    opacity: 1!important;
+    text-decoration: none!important;
+    background: #ffffff!important;
+    color: #f6901b!important;
+    border: 1px solid #f6901b;
+    -webkit-transition: ease-out 0.5s!important;
+    -moz-transition: ease-out 0.5s!important;
+    transition: ease-out 0.5s!important;
+    text-transform: uppercase;
+    font-weight: 500!important;
+    letter-spacing: 1px;
+    font-size: 15px!important;
+}
+.wc-block-components-notice-banner>.wc-block-components-notice-banner__content .wc-forward:hover {
+    color: #ffffff!important;
+    border: 1px solid #f6901b!important;
+    box-shadow: inset 400px 0 0 0 #f6901b;
+}

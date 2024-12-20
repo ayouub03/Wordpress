@@ -1,0 +1,163 @@
+/*
+Theme Name: Antique Jewelry
+Theme URI: https://www.titanthemes.net/themes/free-jewelry-wordpress-theme/
+Author: Titan Themes
+Author URI: https://www.titanthemes.net/
+Description: The Antique Jewelry WordPress Theme is a premium, feature-rich solution designed for businesses in the jewelry industry, with a specific focus on antique, vintage, and high-end jewelry pieces. This theme seamlessly combines elegance and functionality, offering a visually stunning and user-friendly platform to showcase exclusive collections of antique rings, vintage necklaces, bracelets, brooches, earrings, and more. Tailored for jewelry boutiques, antique shops, vintage jewelry sellers, high-end retailers, and online jewelry stores, the theme provides robust e-commerce features such as well-designed product pages, shopping carts, and secure checkout systems, ensuring smooth transactions for your customers. It offers extensive customization options, enabling you to personalize the theme to match your brand’s unique aesthetics, with adjustable color schemes, typography settings, and layout choices to reflect the elegance of your jewelry offerings. Additionally, the theme is SEO-optimized, enhancing your site's organic search rankings and driving traffic to your online store. The sophisticated and classic design of the Antique Jewelry theme places a strong emphasis on the intricate details and craftsmanship of each jewelry piece, with a full-width homepage slider that beautifully displays high-resolution images of your collections. The site’s layout includes sections for featured collections, new arrivals, bestsellers, and customer testimonials, creating a rich browsing experience that encourages customer engagement. Product pages are designed to showcase jewelry with ample space for high-quality images, detailed descriptions, and customer reviews, ensuring that each piece is highlighted effectively. Additional features include related products, wish lists, inventory management, and secure payment options, further enhancing the shopping experience. The theme’s responsive design ensures that your site looks exceptional on any device, whether desktop, tablet, or smartphone, providing customers with a seamless shopping experience at any time, anywhere. Ideal for businesses in the antique jewelry, vintage collections, luxury accessories, and bespoke jewelry markets, the Antique Jewelry WordPress Theme is the perfect tool for elevating your online presence and increasing sales.
+Requires at least: 6.1
+Tested up to: 6.7
+Requires PHP: 7.2
+Version: 1.7
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: antique-jewelry
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, translation-ready, sticky-post, threaded-comments, wide-blocks, block-styles, blog, photography, e-commerce
+*/
+
+.homepage-header {
+  padding: 0 !important;
+}
+.homepage-header {
+  position: relative;
+  width: 100%;
+}
+.home .homepage-header {
+  padding: 0 !important;
+  position: absolute;
+  width: 70%;
+  left: 0px;
+  right: 0px;
+  z-index: 999;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 0;
+}
+.header-box{
+  padding: 0 !important;
+}
+.header-main-box {
+  margin-bottom: 0;
+}
+.menu-box{
+  margin-top: 0 !important;
+  padding: 12px 0;
+}
+.slider-area{
+	margin: 0;
+}
+.wp-site-blocks{
+	padding: 0 !important;
+}
+.product-btn a{
+  box-shadow: 0 0px 2px rgba(0,0,0,0.12), 0 1px 7px rgba(0,0,0,0.24);
+}
+figure.product-img {
+  box-shadow: 0 0px 1px rgba(0,0,0,0.12), 0 0px 19px rgba(0,0,0,0.12);
+  width: 100%;
+  height: 192px;
+}
+.product-main h5 a {
+  text-decoration: none;
+}
+.product-main img {
+  width: 100%;
+}
+.toggle-icon img {
+  top: -7px;
+  position: relative;
+}
+.header-search .wp-block-search__input {
+  border-bottom: 1px solid !important;
+  border: 0px;
+  padding: 0px;
+  height: 40px;
+}
+.header-search {
+  position: relative;
+  width: 65%;
+}
+.header-search button.wp-block-search__button.wp-element-button {
+  background: transparent;
+  position: absolute;
+  padding: 0px;
+  right: 0px;
+  font-size: 0px;
+}
+.header-search button:after{
+  content: "";
+  width: 30px;
+  height: 30px;
+  background-image: url('./assets/images/search.png');
+  background-repeat: no-repeat;
+  top: 10px;
+  right: 5px;
+  position: absolute;
+  display: inline-block;
+}
+.product-content p,.product-rating {
+  margin-top: 10px !important;
+}
+.star-rating img {
+  position: relative !important;
+  top: -3px;
+}
+footer.wp-block-template-part {
+  margin-top: 0;
+}
+@media screen and (min-width: 320px) and (max-width: 800px) {
+	.header-area .wp-container-core-buttons-layout-1.wp-container-core-buttons-layout-1 {
+		justify-content: center;
+	}
+  .main-header,.services-box,.product-rating p {
+    text-align: center;
+  }
+  .header-nav nav,.slide-btn,.product-btn,.product-rating {
+    justify-content: center !important;
+  }
+  .star-rating {
+    justify-content: center !important;
+    display: flex;
+  }
+  .product-main {
+    max-width: 100% !important;
+  }
+  .slider-banner{
+    text-align: center;
+  }
+  .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container{
+    justify-content: center !important;
+  }
+  .header-nav ul{
+    justify-content: center;
+  }
+  .star-rating figure{
+    margin: 0px !important;
+  }
+  .header-search {
+    position: relative;
+    width: 100%;
+  }
+  .product-content {
+    text-align: center;
+  }
+  .slider-content{
+    text-align: center;
+  }
+	.homepage-header{
+	    position: static;
+	    width: 100%;
+	    text-align: center;
+  	}
+	.homepage-header .wp-header-search-social{
+		justify-content: center;
+	}
+}
+@media screen and (min-width: 782px) and (max-width: 1500px) {
+  .header-search {
+    position: relative;
+    width: 100%;
+  }
+  .star-rating figure {
+    margin: 0px !important;
+  }
+}

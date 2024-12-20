@@ -1,0 +1,18 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_shoppable-jewelry">
+            <key name="redemption_code_one_content" />
+            <key name="redemption_code_two_content" />
+            <key name="redemption_code_three_content" />
+            <key name="redemption_code_four_content" />
+            <key name="fact_one_title" />
+            <key name="fact_two_title" />
+            <key name="fact_three_title" />
+            <key name="fact_four_title" />
+            <key name="fact_one_content" />
+            <key name="fact_two_content" />
+            <key name="fact_three_content" />
+            <key name="fact_four_content" />
+        </key>
+    </admin-texts>
+</wpml-config>

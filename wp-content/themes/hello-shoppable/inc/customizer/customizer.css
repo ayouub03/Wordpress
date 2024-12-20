@@ -1,0 +1,377 @@
+/*Ganeral css*/
+.customize-control input[type=email], .customize-control input[type=number], .customize-control input[type=password], .customize-control input[type=range], .customize-control input[type=search], .customize-control input[type=tel], .customize-control input[type=text], .customize-control input[type=url] {
+    color: #50575e;
+    font-size: 13px;
+    font-weight: 400;
+}
+.customize-control textarea {
+  padding: 12px;
+}
+/****customizer typography css****/
+.customize-control-title {
+    color: #333;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.kirki-control-left-col .customize-control-title,
+.kirki-toggle .customize-control-title {
+    font-weight: 400;
+}
+.customize-control-notifications-container {
+    font-size: 13px;
+}
+.customize-control.customize-control-has-small-gap .customize-control-title {
+    font-weight: 500;
+}
+.customize-control {
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+div.customize-section-description {
+    font-size: 14px;
+}
+.customize-control-has-small-gap {
+    margin-bottom: 10px;
+}
+/****customizer tab css****/
+
+/*customizer buttonset css*/
+.customize-control .buttonset .switch-label {
+    background: #FAFAFA;
+    border: 1px solid #e3e3e3;
+}
+.customize-control-kirki-radio-buttonset .buttonset .switch-input:checked+.switch-label {
+    background-color: #FFFFFF;
+    border-color: rgba(34, 113, 177, 0.62);
+    color: #333;
+}
+.customize-control-kirki-slider .kirki-control-reset:hover i {
+    color: #2271b1;
+}
+
+/*customizer tab buttom gap css*/
+#customize-control-top_bar_tab,
+#customize-control-latest_posts_tab,
+#customize-control-hero_tab,
+#customize-control-woocommerce_product_catalog_tabs,
+#customize-control-footer_widget_tab,
+#customize-control-footer_copyright_tab,
+#customize-control-fixed_header_tab,
+#customize-control-top_notification_tab {
+    margin-bottom: 25px;
+}
+#customize-control-top_bar_tab .buttonset,
+#customize-control-main_header_tab .buttonset,
+#customize-control-latest_posts_tab .buttonset,
+#customize-control-hero_tab .buttonset,
+#customize-control-woocommerce_product_catalog_tabs .buttonset,
+#customize-control-footer_widget_tab .buttonset,
+#customize-control-footer_copyright_tab .buttonset,
+#customize-control-fixed_header_tab .buttonset,
+#customize-control-top_notification_tab .buttonset {
+    margin-top: -15px;
+    margin-right: -12px;
+    margin-left: -12px;
+    background: #fff;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+/*customizer tab style css*/
+#customize-control-top_bar_tab .buttonset .switch-label,
+#customize-control-main_header_tab .buttonset .switch-label,
+#customize-control-latest_posts_tab .buttonset .switch-label,
+#customize-control-hero_tab .buttonset .switch-label,
+#customize-control-woocommerce_product_catalog_tabs .buttonset .switch-label,
+#customize-control-footer_widget_tab .buttonset .switch-label,
+#customize-control-footer_copyright_tab .buttonset .switch-label,
+#customize-control-fixed_header_tab .buttonset .switch-label,
+#customize-control-top_notification_tab .buttonset .switch-label {
+    height: 50px;
+    text-align: center;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-bottom: 3px solid #fff;
+}
+/*customizer tab active css*/
+#customize-control-top_bar_tab .buttonset .switch-label,
+#customize-control-main_header_tab .buttonset .switch-label,
+#customize-control-latest_posts_tab .buttonset .switch-label,
+#customize-control-hero_tab .buttonset .switch-label,
+#customize-control-woocommerce_product_catalog_tabs .buttonset .switch-label,
+#customize-control-footer_widget_tab .buttonset .switch-label,
+#customize-control-footer_copyright_tab .buttonset .switch-label,
+#customize-control-fixed_header_tab .buttonset .switch-label,
+#customize-control-top_notification_tab .buttonset .switch-label {
+    position: relative;
+}
+#customize-control-top_bar_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-main_header_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-latest_posts_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-hero_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-woocommerce_product_catalog_tabs .buttonset .switch-input:checked+.switch-label,
+#customize-control-footer_widget_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-footer_copyright_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-fixed_header_tab .buttonset .switch-input:checked+.switch-label,
+#customize-control-top_notification_tab .buttonset .switch-input:checked+.switch-label {
+    background-color: transparent;
+    color:  #333;
+}
+#customize-control-top_bar_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-main_header_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-latest_posts_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-hero_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-woocommerce_product_catalog_tabs .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-footer_widget_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-footer_copyright_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-fixed_header_tab .buttonset .switch-input:checked+.switch-label:before,
+#customize-control-top_notification_tab .buttonset .switch-input:checked+.switch-label:before {
+    background-color: #2271b1;
+    content: "";
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+/*customizer tab typography*/
+#customize-control-top_bar_tab .buttonset .switch-label,
+#customize-control-main_header_tab .buttonset .switch-label,
+#customize-control-latest_posts_tab .buttonset .switch-label,
+#customize-control-hero_tab .buttonset .switch-label,
+#customize-control-woocommerce_product_catalog_tabs .buttonset .switch-label,
+#customize-control-footer_widget_tab .buttonset .switch-label,
+#customize-control-footer_copyright_tab .buttonset .switch-label,
+#customize-control-fixed_header_tab .buttonset .switch-label,
+#customize-control-top_notification_tab .buttonset .switch-label {
+    background-color: #FFFFFF;
+    border:  none;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+/****customizer half width image radio input css****/
+.customize-control-kirki-radio-image > .image {
+    -webkit-display: grid;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-top: 8px;
+}
+.customize-control-kirki-radio-image .image label {
+    line-height: 1;
+    position: relative;
+}
+.customize-control-kirki-radio-image .image label .image-label {
+    display: block;
+    opacity: 0;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    transition: all 0.4s;
+}
+.customize-control-kirki-radio-image .image label:hover .image-label {
+    opacity: 1;
+}
+.customize-control-kirki-radio-image .image .image-label .inner {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    color: #333;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+/****customizer full width image radio input css****/
+.customize-control-kirki-radio-image[data-kirki-setting="header_layout"] > .image {
+    -webkit-grid-template-columns: auto;
+    grid-template-columns: auto;
+    row-gap: 15px;
+}
+.customize-control-kirki-radio-image input:checked + label:before {
+    content: "";
+    display: block;
+    border: 1px solid #2271b1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+.customize-control-kirki-radio-image input:checked + label img {
+    box-shadow: none;
+    border: none;
+}
+/****customizer input toggle switch css****/
+.customize-control .kirki-toggle-switch-label:before {
+    background-color: #C8C8C8;
+    border: none;
+    border-radius: 10px;
+    height: 20px;
+}
+.customize-control .kirki-toggle-switch-label:after {
+    background-color: #FFFFFF;
+    height: 15px;
+    width: 15px;
+}
+.customize-control .kirki-toggle-switch-input:checked+.kirki-toggle-switch-label:before {
+    background-color: #2271b1;
+}
+.customize-control .kirki-toggle-switch-input:checked+.kirki-toggle-switch-label:after {
+    background-color: #FFFFFF;
+}
+/*customizer select css*/
+.customize-control .css-qc6sy-singleValue {
+    color: #50575e;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+/****customizer color css****/
+.customize-control-kirki-react-colorful .kirki-trigger-circle-wrapper {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border: none;
+    height: auto;
+    padding: 0;
+    width: auto;
+    display: table;
+    top: -1px;
+}
+
+/****customizer input slide css****/
+.customize-control-kirki-slider .kirki-control-left-col {
+    padding-right: 0;
+    width: 75%;
+}
+.customize-control-kirki-slider .kirki-control-right-col {
+    width: 25%;
+}
+.customize-control-kirki-slider .kirki-control-slider {
+    height: 1px;
+    top: -5px;
+}
+.customize-control-kirki-slider .kirki-control-right-col .kirki-control-value {
+    background-color: #FFFFFF;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    padding: 5px 0;
+    text-align: center;
+}
+.customize-control-kirki-slider .kirki-control-reset {
+    bottom: 35px;
+}
+.customize-control[data-kirki-setting="main_menu_description_info"] label {
+    background-color: #fff;
+    color: #50575e;
+    display: block;
+    padding: 10px 12px;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.customize-control[data-kirki-setting="main_menu_description_info"] label a {
+    color: #2271b1;
+}
+
+/*kriki typography setting css*/
+.kirki-group-item.kirki-group-end {
+    margin-bottom: 20px;
+}
+
+/*kriki custom header css*/
+#customize-control-header_button_separator label,
+#customize-control-top_notification_button_separator label,
+#customize-control-top_notification_bar_responsive_separator label,
+#customize-control-banner_button_separator label,
+#customize-control-slider_button_separator label,
+#customize-control-posts_button_separator label,
+#customize-control-header_two_general_separator label,
+#customize-control-contact_details_separator label,
+#customize-control-product_card_separator label,
+#customize-control-product_card_style_separator label,
+#customize-control-sale_tag_separator label,
+#customize-control-sale_tag_style_separator label,
+#customize-control-add_to_cart_separator label,
+#customize-control-add_to_cart_style_separator label,
+#customize-control-footer_responsive_separator label,
+#customize-control-top_bar_responsive_separator label,
+#customize-control-copyright_responsive_separator label,
+#customize-control-scroll_top_responsive_separator label,
+#customize-control-latest_posts_responsive_separator label,
+#customize-control-avertisement_banner_responsive_separator label,
+#customize-control-main_slider_responsive_separator label,
+#customize-control-header_style_responsive_separator label,
+#customize-control-fixed_header_responsive_separator label,
+#customize-control-header_media_separator label,
+#customize-control-blog_archive_separator label,
+#customize-control-topbar_text_separator label,
+#customize-control-topbar_social_separator label,
+#customize-control-footer_social_separator label,
+#customize-control-footer_logo_separator label,
+#customize-control-header_banner_separator label {
+    background-color: #fff;
+    color: #333;
+    display: block;
+    padding: 10px 12px;
+    margin-left: -12px;
+    margin-right: -12px;
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/*Typography option in-between space*/
+.typography_spacer {
+    margin-bottom: 7px;
+    display: block;
+}
+
+/*Getting started*/
+#accordion-section-theme_upsell {
+    display: block !important;
+    min-height: auto;
+}
+
+#customize-theme-controls #accordion-section-theme_upsell .accordion-section-title {
+    border-left: none;
+}
+
+#accordion-section-theme_upsell a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 6px 20px;
+    margin-top: 8px;
+}
+
+#accordion-section-theme_upsell h3 a.button:hover,
+#accordion-section-theme_upsell h3 a.button:focus,
+#accordion-section-theme_upsell h3 a.button:active {
+    background-color: #0071a1;
+    border-color: #0071a1;
+}
+
+/* Option separator title */
+.customizer_separator_title {
+    font-weight: 600;
+    font-size: 14px;
+    color: #333333;
+    letter-spacing: 0.5px;
+}

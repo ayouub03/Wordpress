@@ -1,0 +1,18 @@
+#customize-control-redemption_code_responsive_separator label,
+#customize-control-centerstage_event_responsive_separator label,
+#customize-control-blog_facts_responsive_separator label{
+    background-color: #fff;
+    color: #333;
+    display: block;
+    padding: 10px 12px;
+    margin-left: -12px;
+    margin-right: -12px;
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.customize-control-kirki-toggle .kirki-toggle {
+    align-items: center;
+}

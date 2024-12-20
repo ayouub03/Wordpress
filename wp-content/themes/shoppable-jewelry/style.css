@@ -1,0 +1,327 @@
+/*!
+Theme Name: Shoppable Jewelry
+Theme URI: https://bosathemes.com/shoppable-jewelry
+Author: Bosa Themes
+Author URI: https://bosathemes.com
+Description:  Shoppable Jewelry is beautiful multipurpose ecommerce theme. Shoppable Jewelry is beautiful, fast, lightweight, responsive, extremely customizable, multipurpose ecommerce theme that you can use as a foundation to build versatile sites such as accessories, fashion, gemstone, goldsmith, handcrafted, jewellery, jewellery shop, jewelry, jewelry store, luxury, marketplace, modern, vendor, responsive, store, woocommerce and preferably ideal for any type of sites. Shoppable Jewelry works perfectly with Gutenberg and the most popular page builder Elementor that can easily drag-and-drop your ideas from the interface. Shoppable Jewelry is built with SEO, speed, and usability in mind with the multiple Header & Footer layouts, predesigned starter sites includes awesome Home & Inner Pages that is incredibly customizable and powerful enough to take a stand among the crowd. Shoppable Jewelry is compatible with all major plugins like WooCommerce, Yoast, Contact form 7, Mailchimp for WordPress, bbPress, etc. Looking for a multipurpose ecommerce theme? Look no further! Browse the demos to see that it's the only theme you will ever need: https://demo.bosathemes.com/shoppable/jewelry
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 6.5
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: hello-shoppable
+Text Domain: shoppable-jewelry
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Shoppable Jewelry WordPress Theme, Copyright 2024 Bosa Themes
+Shoppable Jewelry is distributed under the terms of the GNU General Public License v3
+
+Shoppable Jewelry is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #111111;
+    font-family: 'Jost', serif;
+    font-weight: 500;
+}
+.entry-content h1 a,
+.entry-content h2 a,
+.entry-content h3 a,
+.entry-content h4 a,
+.entry-content h5 a,
+.entry-content h6 a {
+    text-decoration: underline;
+}
+.entry-content p a,
+.comment-content p a,
+.entry-content li a,
+.comment-content li a,
+.widget p a,
+.comments-area .comment-list .comment-content a {
+    color: #2e92ff;
+}
+.entry-content p a:hover,
+.entry-content p a:focus,
+.comment-content p a:hover,
+.comment-content p a:focus,
+.entry-content li a:hover,
+.entry-content li a:focus,
+.comment-content li a:hover,
+.comment-content li a:focus,
+.widget p a:hover,
+.widget p a:focus,
+.comments-area .comment-list .comment-content a:hover,
+.comments-area .comment-list .comment-content a:focus {
+    color: #086abd;
+}
+.slide-item .entry-content h3 a,
+.list-post .entry-content h3 a,
+.grid-post .entry-content h3 a,
+.single-post .entry-content h3 a {
+    text-decoration: none;
+}
+.wp-block-quote {
+    padding: 30px 30px 30px 50px;
+    margin: 30px 0 30px 30px;
+}
+
+/*Facts area section*/
+.section-facts-area {
+    padding-bottom: 70px;
+}
+.section-facts-area .row {
+    row-gap: 40px;
+}
+.section-facts-area .info-content-wrap {
+    padding: 40px 30px;
+    border-radius: 10px;
+    display: flex;
+    gap: 30px;
+    background-color: #fdfdfd;
+    position: relative;
+    box-shadow: 0px 0px 13px -4px rgba(0, 0, 0, 0.15);
+    width: calc(100% - 40px);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.section-facts-area .info-content-wrap:before {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: -20px;
+    background-color: #dadada;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    z-index: -1;
+}
+.section-facts-area .info-content-wrap .info-icon {
+    font-size: 80px;
+    color: #979797;
+    text-align: center;
+    flex-shrink: 0;
+    line-height: 1;
+}
+.section-facts-area .info-content-wrap .entry-header p {
+    margin-bottom: 0;
+}
+@media screen and (max-width: 467px) {
+    .section-facts-area .info-content-wrap {
+        flex-direction: column;
+        padding: 40px 20px;
+        gap: 25px;
+    }
+    .section-facts-area .info-content-wrap .entry-header {
+        text-align: center;
+    }
+    .section-facts-area .info-content-wrap .info-icon {
+        font-size: 70px;
+    }
+}
+
+/*centerstage event css*/
+.section-centerstage-event-area {
+    padding-bottom: 70px;
+}
+.section-centerstage-event-area .event-wrapper {
+    padding-left: 70px;
+    position: relative;
+}
+.section-centerstage-event-area .event-wrapper:after {
+    content: "";
+    width: 1px;
+    height: 130%;
+    background-color: #D9D9D9;
+    position: absolute;
+    left: 14px;
+    top: 0;
+    z-index: -1;
+}
+.section-centerstage-event-area div.row>div:first-child .event-wrapper:after {
+    top: 50%;
+}
+.section-centerstage-event-area div.row>div:last-child .event-wrapper:after {
+    bottom: 50%;
+    height: 50%;
+}
+.section-centerstage-event-area .event-wrapper:before {
+    content: "\f192";
+    font-family: "Font Awesome 5 Free";
+    left: 0;
+    top: 50%;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    background-color: #fff;
+    color: #333;
+    font-size: 30px;
+    position: absolute;
+    -webkit-transform: translatey(-50%);
+    -ms-transform: translatey(-50%);
+    transform: translatey(-50%);
+    transition: all 0.2s;
+}
+.section-centerstage-event-area .event-wrapper:hover:before {
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    left: -5px;
+}
+.section-centerstage-event-area .event-iconbox {
+    border-radius: 5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 25px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid #D9D9D9;
+    margin-bottom: 25px;
+    padding: 25px;
+}
+.section-centerstage-event-area .event-iconbox .event-icon {
+    border-radius: 5px;
+    background-color: #F2F2F2;
+    color: #333;
+    font-size: 28px;
+    width: 78px;
+    height: 78px;
+    line-height: 78px;
+    text-align: center;
+    flex-shrink: 0;
+}
+.section-centerstage-event-area .event-iconbox .entry-content {
+    flex-grow: 1;
+}
+.section-centerstage-event-area .event-iconbox .entry-content .entry-title a {
+    text-decoration: none;
+}
+.section-centerstage-event-area .event-iconbox .event-page-link {
+    padding-right: 25px;
+    flex-shrink: 0;
+}
+.section-centerstage-event-area .event-iconbox .event-page-link i {
+    font-size: 17px;
+}
+@media screen and (max-width: 768px) {
+    .section-centerstage-event-area .event-iconbox .event-page-link {
+        padding-right: 0;
+    }
+}
+@media screen and (max-width: 576px) {
+    .section-centerstage-event-area .event-iconbox {
+        padding: 20px 15px;
+    }
+    .section-centerstage-event-area .event-wrapper:before {
+        font-size: 25px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        left: 2;
+    }
+    .section-centerstage-event-area .event-wrapper:hover:before {
+        font-size: 30px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        left: 0;
+    }
+    .section-centerstage-event-area .event-iconbox .event-icon {
+        width: 65px;
+        height: 65px;
+        line-height: 65px;
+        font-size: 25px;
+    }
+    .section-centerstage-event-area .event-wrapper {
+        padding-left: 40px;
+    }
+    .section-centerstage-event-area .event-iconbox .event-page-link {
+        padding-left: 10px;
+    }
+}
+@media screen and (max-width: 467px) {
+    .section-centerstage-event-area .event-iconbox {
+        flex-direction: column;
+        padding: 30px 15px;
+    }
+    .section-centerstage-event-area .event-iconbox .entry-content {
+        padding: 0;
+        text-align: center;
+    }
+    .section-centerstage-event-area .event-iconbox .event-page-link {
+        display: inline-block;
+    }
+    .section-centerstage-event-area .event-iconbox .event-page-link i {
+        height: 30px;
+        width: 30px;
+        line-height: 29px;
+        text-align: center;
+        border: 1px solid #a6a6a6;
+        border-radius: 50%;
+    }
+    .section-centerstage-event-area .event-iconbox .event-page-link i:hover {
+        border: 1px solid #086abd;
+    }
+}
+
+/*Redemption code section*/
+.section-redemption-code-area {
+    padding-bottom: 70px;
+}
+.section-redemption-code-area .row {
+    row-gap: 30px;
+}
+.section-redemption-code-area .redeem-code-content-wrap {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.section-redemption-code-area .redeem-code-content-wrap:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.70);
+    transition: all 0.4s;
+    opacity: 0;
+}
+.section-redemption-code-area .redeem-code-content-wrap:hover:before {
+    opacity: 1;
+}
+.section-redemption-code-area .redeem-code-content-wrap .redeem-code-txt {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(41%, -50%);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.4s;
+}
+.section-redemption-code-area .redeem-code-content-wrap:hover .redeem-code-txt {
+    opacity: 1;
+}
